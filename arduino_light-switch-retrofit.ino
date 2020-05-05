@@ -19,7 +19,7 @@
  *  that computerized home automation can offer.
  *  
  *  By: Angelo Marzolla
- *  angelo.marzolla@gmail.com 
+ *  
  *    
  *  ****** this is my first contribution for GitHub. If you don't mind, please, send me a note if you like it. Thanks!
  *  
@@ -45,7 +45,7 @@
  *  Evita a necessidade de trocar os interruptores tradicionais por pulsadores.
  *  
  *  By: Angelo Marzolla
- *  angelo.marzolla@gmail.com 
+ *  
  *  
  *  
  *  
