@@ -15,7 +15,7 @@ As it is now integrated to an automation system, you can also use it as a parall
 The touch and feel is the same as the old fashion light switches, with all the bennefits that computerized home automation can offer.
    
 By: Angelo Marzolla
-angelo.marzolla@gmail.com 
+
      
 ****** this is my first contribution for GitHub. If you don't mind, please, send me a note if you like it. Thanks!
    
@@ -37,5 +37,5 @@ Além disso, pertite todas as funcções que eua automação tradicional permite
 Evita a necessidade de trocar os interruptores tradicionais por pulsadores.
    
 By: Angelo Marzolla
-angelo.marzolla@gmail.com 
+ 
    
