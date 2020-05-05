@@ -71,8 +71,8 @@ void setup()
 {
 //  Serial.begin(115200);
 
-//  pinMode( relay01port, OUTPUT);
-//  pinMode( in1, INPUT_PULLUP);
+  pinMode( relay01port, OUTPUT);
+  pinMode( in1, INPUT_PULLUP);
   
   digitalWrite(relay01port, LOW);      // sets relay OFF when system is powered ON (useful in the case of a power loss)
   switch01 = !digitalRead( in1 );      // reads the initial status of the switch (open or closed)
